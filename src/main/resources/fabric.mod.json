@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.wolfsurwail.modding.ExampleMod"
+    ],
+    "client": [
+      "net.wolfsurwail.modding.ModClient"
     ]
   },
   "mixins": [
