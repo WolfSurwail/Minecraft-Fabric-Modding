@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package net.wolfsurwail.modding.mixin;
 
-import net.fabricmc.example.ExampleMod;
+import net.wolfsurwail.modding.ExampleMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
